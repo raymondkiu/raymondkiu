@@ -1,6 +1,6 @@
 ### Dr Raymond Kiu
 
-:scientist:Research Fellow/ Bioinformatician<br/>
+:scientist:Research Fellow/ Bioinformatician/ Microbiologist<br/>
 :round_pushpin:University of Birmingham, UK<br/>
 :microscope:Microbial Genomics, Metagenomics, Transcriptomics<br/>
 :microbe:Gut Microbiome🧬, <i>Clostridium</i>, <i>Enterococcus</i>, <i>Bifidobacterium</i><br/>
